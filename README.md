@@ -25,6 +25,7 @@ Here are some images of my part designs. The corner holes have countersinks so t
 ![backplate](https://github.com/dbstreif/Custom-QCX-Plus/blob/main/assets/backplate.png "STL Slice Backplate Preview")
 ![front](https://github.com/dbstreif/Custom-QCX-Plus/blob/main/assets/front.jpg "QCX+ Front Preview")
 ![back](https://github.com/dbstreif/Custom-QCX-Plus/blob/main/assets/back.jpg "QCX+ Back Preview")
+![top](https://github.com/dbstreif/Custom-QCX-Plus/blob/main/assets/top.jpg "QCX+ Top Preview")
 ![power](https://github.com/dbstreif/Custom-QCX-Plus/blob/main/assets/power.jpg "QCX+ Powered On Preview")
 
 
