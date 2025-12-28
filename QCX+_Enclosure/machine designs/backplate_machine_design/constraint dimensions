@@ -1,0 +1,22 @@
+Plate x1:
+Plate: x: 116mm, y: 66mm
+
+Radial Chamfer x4:
+Radial Chamfer to Edge: r: 3.83mm
+
+Standoff x4:
+Standoff countersink outer from origin to edges: x: 3.00mm, y: 4.24mm, d: 6.00mm
+Standoff hole inner from outer: d: 2.52mm, edge_dist: 1.74mm
+
+TRS Connector Cutouts x4:
+Dimension from origin to origin: 14mm
+Dimension from origin to edge (first drill): x: 18.2, y: 16.2
+Diameter: 6.5mm
+
+BNC Cutout x1:
+Diameter: 12.5mm
+Dimension from origin to edge: x: 76.3, y: 19.2
+
+DC Cutout x1:
+Diameter: 6.5mm
+Dimension from origin to edge: x: 99.4, y: 19.5

@@ -1,0 +1,13 @@
+Plate x1:
+Plate: x: 116mm, y: 66mm
+
+Radial Chamfer x4:
+Radial Chamfer to Edge: r: 3.83mm
+
+Standoff x4:
+Standoff countersink outer from origin to edges: x: 3.00mm, y: 4.24mm, d: 6.00mm
+Standoff hole inner from outer: d: 2.52mm, edge_dist: 1.74mm
+
+LED Standoff x4:
+Standoff countersink outer from origin to edges: x: 13.00mm, y: 20.5mm, d: 6.00mm
+Standoff hole inner from outer: d: 2.52mm, edge_dist: 1.74mm
